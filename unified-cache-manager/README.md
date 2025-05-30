@@ -11,6 +11,7 @@ A utility plugin to manage and troubleshoot caching across platforms like WP Roc
 - Admin dashboard with:
   - One-click cache clear
   - One-click "Check for Updates"
+- Clean admin sidebar integration with custom icon and label ("Unified Cache Tools")
 
 ---
 
