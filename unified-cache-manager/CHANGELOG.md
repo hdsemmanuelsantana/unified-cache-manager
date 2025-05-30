@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.0.3] - 2024-05-30
+### Changed
+- Admin menu label updated to "Unified Cache Tools"
+- Dashicon changed to `dashicons-database`
+
 ## [1.0.2] - 2024-05-30
 ### Added
 - Manual plugin update checker button in dashboard
