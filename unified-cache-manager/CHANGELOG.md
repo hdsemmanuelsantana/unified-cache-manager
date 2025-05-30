@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.0.4] - 2025-05-30
+
+### Added
+- Cache detection for WP Rocket, Cloudflare (plugin), and WP Engine hosting environment.
+- Automatic button display on dashboard for available cache tools.
+- Cache actions for:
+  - Clearing WP Rocket cache
+  - Triggering Cloudflare full purge
+  - Calling WP Engine cache clear (if available)
+
+### Changed
+- Admin UI now conditionally displays cache controls only for active platforms.
+
 ## [1.0.3] - 2024-05-30
 ### Changed
 - Admin menu label updated to "Unified Cache Tools"
