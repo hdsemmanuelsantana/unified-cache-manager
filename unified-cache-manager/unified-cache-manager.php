@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Unified Cache Manager
  * Description: Detects active caching systems and offers a single dashboard to manage them.
- * Version: 1.0
+ * Version: 1.0.0
  * Author: Emmanuel Santana
  * Author URI: https://github.com/hdsemmanuelsantana
  * Tested up to: 6.5
