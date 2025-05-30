@@ -1,20 +1,37 @@
 # Unified Cache Manager
 
-A WordPress admin tool that detects and manages active caching systems. Includes manual controls for WP Rocket, object cache, and hosting environment awareness.
+A utility plugin to manage and troubleshoot caching across platforms like WP Rocket and WP Engine.
 
-## Features
-- Detects WP Rocket, Object Cache, WP Engine, Cloudflare (plugin)
-- Manual buttons to clear WP Rocket and object cache
-- Unified admin dashboard with visual status
-- Update support via GitHub
+---
 
-## Installation
-1. Download the ZIP and upload via WordPress Plugins > Add New.
-2. Activate the plugin.
-3. Go to "Cache Manager" in the admin menu.
+## 🚀 Features
 
-## GitHub Updates
-This plugin uses [YahnisElsts/plugin-update-checker](https://github.com/YahnisElsts/plugin-update-checker) to receive updates directly from GitHub.
+- Manual WP Rocket cache clearing
+- GitHub-based update checker
+- Admin dashboard with:
+  - One-click cache clear
+  - One-click "Check for Updates"
 
-## License
-GPLv2 or later
+---
+
+## 📖 Usage
+
+1. Install and activate the plugin.
+2. Navigate to **Admin Utilities and Tools** in the WP admin menu.
+3. Use the provided buttons to:
+   - Clear WP Rocket cache
+   - Trigger plugin update checks
+
+---
+
+## 🔧 Requirements
+
+- WordPress 5.0+
+- WP Rocket (optional, for cache clearing)
+- GitHub plugin updates require Plugin Update Checker support (included)
+
+---
+
+## 📝 Changelog
+
+See [CHANGELOG.md](CHANGELOG.md) or the GitHub Releases tab.
