@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Unified Cache Manager
  * Description: Manage and troubleshoot caching tools across multiple platforms and plugins.
- * Version: 1.0.3
+ * Version: 1.0.4
  * Author: Emmanuel Santana
  * Author URI: https://github.com/hdsemmanuelsantana
  */
